@@ -1,7 +1,10 @@
 # BibleBridge Reference Resolver
 
-Deterministic Bible reference resolution producing canonical references and OSIS identifiers.
-Powered by the **BibleBridge Deterministic Reference Integrity Engine**.
+Resolve messy Bible references into canonical coordinates:
+
+![Resolver Playground](docs/resolve-playground.png)
+
+Deterministic Bible reference resolution producing canonical references and OSIS identifiers, powered by the **BibleBridge Deterministic Reference Integrity Engine**.
 
 BibleBridge converts human-written Bible references into canonical references and OSIS identifiers that applications can reliably process.
 
